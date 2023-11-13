@@ -1,8 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hu921
+  # - torvalds
+  # - alshedivat
 
 github_repos:
+  - hu921/hu921.github.io
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
